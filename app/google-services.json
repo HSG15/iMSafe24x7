@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "866571992209",
+    "project_id": "whatsapp-lite-fc28d",
+    "storage_bucket": "whatsapp-lite-fc28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866571992209:android:45235414bdd542e0155330",
+        "android_client_info": {
+          "package_name": "com.example.whatsapplite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866571992209-p73lrf9biu5p12cglge4lcrmt7fd49f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYGtq3l0aXqH1wnv75Meo5xhcmuzvKCQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866571992209-p73lrf9biu5p12cglge4lcrmt7fd49f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866571992209:android:a0721586529bfe1b155330",
+        "android_client_info": {
+          "package_name": "com.hsg.imsafe24x7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866571992209-p73lrf9biu5p12cglge4lcrmt7fd49f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYGtq3l0aXqH1wnv75Meo5xhcmuzvKCQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866571992209-p73lrf9biu5p12cglge4lcrmt7fd49f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
